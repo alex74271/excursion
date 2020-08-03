@@ -28,3 +28,12 @@ a {
     color: gray;
 }
 
+/* Footer */
+footer {
+    margin-top: 2%;
+}
+
+footer p {
+    color: gray;
+    text-align: right;
+}
