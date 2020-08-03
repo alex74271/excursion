@@ -16,3 +16,15 @@ a {
     color: aquamarine;
     font-size: 1rem;
 }
+
+/* Image */
+.image h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.image h2 {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
